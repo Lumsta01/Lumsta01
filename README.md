@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lumsta01
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently C
+- 💞️ I’m looking to collaborate on C projects
 - 📫 How to reach me : lulamamanganyi01@gmail.com
 
 <!---
