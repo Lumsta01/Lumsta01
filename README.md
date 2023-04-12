@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lumsta01
 - 👀 I’m interested in programming
-- 🌱 I’m currently C
+- 🌱 I’m currently learn C and Python
 - 💞️ I’m looking to collaborate on C and Python projects
 - 📫 How to reach me : lulamamanganyi01@gmail.com
 
